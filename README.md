@@ -14,4 +14,4 @@ This project is built with ReactJS. This project used CoinGecko API for crypto d
 
 ## Link 🔗
 
-[Click Me!](https://mytravel-advisor.netlify.app/)
+[Click Me!](https://cryptotrkr.netlify.app/)
