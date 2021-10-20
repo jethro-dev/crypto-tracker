@@ -42,7 +42,7 @@ function App() {
         <form>
           <input
             type="text"
-            placeholder="Search"
+            placeholder="e.g. Bitcoin/BTC"
             className="coin-input"
             onChange={handleChange}
           />
